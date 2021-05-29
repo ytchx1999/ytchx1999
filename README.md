@@ -1,4 +1,4 @@
-### Hi there 👋
+### Here is Huixuan Chi. 👋
 
 <!--
 **ytchx1999/ytchx1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: chihuixuan@163.com.
 ---
 - 🤔 I’m currently working on my undergraduate graduation project ([https://github.com/ytchx1999/PyG-OGB-Tricks](https://github.com/ytchx1999/PyG-OGB-Tricks)), hoping to get valuable advice from you.
-- My Blog: [https://blog.csdn.net/weixin_41650348/](https://blog.csdn.net/weixin_41650348/).
+<!-- - My Blog: [https://blog.csdn.net/weixin_41650348/](https://blog.csdn.net/weixin_41650348/). -->
+- [![](https://img.shields.io/badge/CSDN Blog-@智慧的旋风-red.svg?style=plastic)](https://blog.csdn.net/weixin_41650348/)
 
 ![ytchx1999's github stats](https://github-readme-stats.vercel.app/api?username=ytchx1999&theme=radical&show_icons=true) 
