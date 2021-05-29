@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - 🤔 I’m currently working on my undergraduate graduation project ([https://github.com/ytchx1999/PyG-OGB-Tricks](https://github.com/ytchx1999/PyG-OGB-Tricks)), hoping to get valuable advice from you.
 - My Blog: [https://blog.csdn.net/weixin_41650348/](https://blog.csdn.net/weixin_41650348/).
 
-![ytchx1999's github stats](https://github-readme-stats.vercel.app/api?username=ytchx1999&theme=radical) 
+![ytchx1999's github stats](https://github-readme-stats.vercel.app/api?username=ytchx1999&theme=radical&show_icons=true) 
