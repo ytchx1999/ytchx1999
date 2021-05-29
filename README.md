@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ c: ...
   -->
 
-[![](https://img.shields.io/badge/CSDN-@智慧的旋风-red.svg?style=plastic)](https://blog.csdn.net/weixin_41650348/)[![](https://img.shields.io/badge/知乎-@智慧的旋风-blue.svg?style=plastic)](https://www.zhihu.com/people/zhi-hui-de-xuan-feng)[![](https://img.shields.io/badge/Google_Scholar-@Huixuan_Chi-success.svg?style=plastic)](https://scholar.google.com.hk/citations?hl=zh-CN&user=mSLoo54AAAAJ)
+[![](https://img.shields.io/badge/CSDN-@智慧的旋风-red.svg?style=plastic)](https://blog.csdn.net/weixin_41650348/)  [![](https://img.shields.io/badge/知乎-@智慧的旋风-blue.svg?style=plastic)](https://www.zhihu.com/people/zhi-hui-de-xuan-feng)  [![](https://img.shields.io/badge/Google_Scholar-@Huixuan_Chi-success.svg?style=plastic)](https://scholar.google.com.hk/citations?hl=zh-CN&user=mSLoo54AAAAJ)
 
 - 🔭 I’m currently studying in NCEPU, which will graduate soon.   
 - 🔭 I will study at ICT (CAS) during the master's degree.  
