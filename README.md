@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🔭 I’m currently studying in NCEPU, which will graduate soon. 
+🔭 I will study at ICT (CAS) during the master's degree.
+🌱 I’m interested in Graph Neural Networks.
+📫 How to reach me: chihuixuan@163.com
+
 ![ytchx1999's github stats](https://github-readme-stats.vercel.app/api?username=ytchx1999&theme=radical) 
