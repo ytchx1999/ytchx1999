@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 
 - 🔭 I have been an intern of *AML@ByteDance*, doing research on Graph Machine Learning.
 
-- 🔭 Now, I'm a M.S. student at *ICT (CAS)*.  
+- 🔭 Now, I'm a M.S. student at *ICT, CAS, Beijing*.  
 
 - 🌱 I’m interested in Graph Neural Networks.  
 
-- 📫 How to reach me: [chihuixuan21@mails.ucas.ac.cn]().
+- 📫 How to reach me: [chihuixuan21@mails.ucas.ac.cn](#).
 
   <!--📫 How to reach me: chihuixuan@163.com.-->
 ---
