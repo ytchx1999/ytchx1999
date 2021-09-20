@@ -6,22 +6,31 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
+
 - 🤔 I’m looking for help with ...
+
 - 💬 Ask me about ...
+
 - 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
+
 - ⚡ c: ...
   -->
+  
+  <!--[![](https://img.shields.io/badge/Google_Scholar-@Huixuan_Chi-success.svg?style=plastic&logo=google-scholar)](https://scholar.google.com.hk/citations?hl=zh-CN&user=mSLoo54AAAAJ) -->
 
-[![](https://img.shields.io/badge/CSDN-@智慧的旋风-red.svg?style=plastic)](https://blog.csdn.net/weixin_41650348/)  [![](https://img.shields.io/badge/知乎-@智慧的旋风-blue.svg?style=plastic&logo=zhihu)](https://www.zhihu.com/people/zhi-hui-de-xuan-feng)  [![](https://img.shields.io/badge/Google_Scholar-@Huixuan_Chi-success.svg?style=plastic&logo=google-scholar)](https://scholar.google.com.hk/citations?hl=zh-CN&user=mSLoo54AAAAJ) ![GitHub User's stars](https://img.shields.io/github/stars/ytchx1999?affiliations=OWNER&style=social) ![GitHub followers](https://img.shields.io/github/followers/ytchx1999?style=social)
+[![](https://img.shields.io/badge/CSDN-@智慧的旋风-red.svg?style=plastic)](https://blog.csdn.net/weixin_41650348/)  [![](https://img.shields.io/badge/知乎-@智慧的旋风-blue.svg?style=plastic&logo=zhihu)](https://www.zhihu.com/people/zhi-hui-de-xuan-feng)   ![GitHub User's stars](https://img.shields.io/github/stars/ytchx1999?affiliations=OWNER&style=social) ![GitHub followers](https://img.shields.io/github/followers/ytchx1999?style=social)
 
 - 🔭 I have graduated from NCEPU.   
 
-- 🔭 I have been an intern of AML@ByteDance, doing research on Graph Machine Learning.
+- 🔭 I have been an intern of *AML@ByteDance*, doing research on Graph Machine Learning.
 
-- 🔭 I'm studying at ICT (CAS) during the master's degree.  
+- 🔭 Now, I'm a M.S. student at *ICT (CAS)*.  
 
 - 🌱 I’m interested in Graph Neural Networks.  
 
