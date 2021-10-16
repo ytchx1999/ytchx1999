@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 
   <!--📫 How to reach me: chihuixuan@163.com.-->
 ---
+- I'm participating in [MAXP-DGL-Graph-Machine-Learing-Competition](https://www.biendata.xyz/competition/maxp_dgl/) recently. (Team: *Graph@ICT*)
+
 - Recently, I submit on OGB Leaderboard for both node classification and graph classification tasks.
 
   - [https://ogb.stanford.edu/docs/leader_nodeprop/#ogbn-products](https://ogb.stanford.edu/docs/leader_nodeprop/#ogbn-products)
@@ -45,7 +47,7 @@ Here are some ideas to get you started:
 
   Criticism and corrections are welcome！
 
-  <!--I’m currently working on my undergraduate graduation project ([PyG-OGB-Tricks](https://github.com/ytchx1999/PyG-OGB-Tricks)), hoping to get valuable advice from you.-->
-  <!-- - My Blog: [https://blog.csdn.net/weixin_41650348/](https://blog.csdn.net/weixin_41650348/). -->
+<!--I’m currently working on my undergraduate graduation project ([PyG-OGB-Tricks](https://github.com/ytchx1999/PyG-OGB-Tricks)), hoping to get valuable advice from you.-->
+<!-- - My Blog: [https://blog.csdn.net/weixin_41650348/](https://blog.csdn.net/weixin_41650348/). -->
 
 ![ytchx1999's github stats](https://github-readme-stats.vercel.app/api?username=ytchx1999&theme=radical&show_icons=true) 
