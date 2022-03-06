@@ -30,17 +30,19 @@ Here are some ideas to get you started:
 
 - 🔭 I have been an intern of *AML@ByteDance*, doing research on Graph Machine Learning.
 
+- 🔭 I have been an intern of *NLP-center@Meituan*, doing research on Dynamic Graph and Recommendation System.
+
 - 🔭 Now, I'm a M.S. student at *ICT, CAS, Beijing*.  
 
 - 🌱 I’m interested in Graph Neural Networks.  
 
-- 📫 How to reach me: [chihuixuan21@mails.ucas.ac.cn](#).
+- 📫 How to reach me: [chihuixuan21s@ict.ac.cn](#).
 
   <!--📫 How to reach me: chihuixuan@163.com.-->
 ---
-- I'm participating in [MAXP-DGL-Graph-Machine-Learing-Competition](https://www.biendata.xyz/competition/maxp_dgl/) recently. (Team: *Graph@ICT*)
+- I participated in [MAXP-DGL-Graph-Machine-Learing-Competition](https://www.biendata.xyz/competition/maxp_dgl/). (Team: *Graph@ICT*, Rank: *6*)
 
-- Recently, I submit on OGB Leaderboard for both node classification and graph classification tasks.
+- I have submited on OGB Leaderboard for both node classification and graph classification tasks.
 
   - [https://ogb.stanford.edu/docs/leader_nodeprop/#ogbn-products](https://ogb.stanford.edu/docs/leader_nodeprop/#ogbn-products)
   - [https://ogb.stanford.edu/docs/leader_graphprop/#ogbg-molhiv](https://ogb.stanford.edu/docs/leader_graphprop/#ogbg-molhiv) 
