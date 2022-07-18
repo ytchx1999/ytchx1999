@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 
 - 🔭 I have graduated from NCEPU.   
 
-- 🔭 I have been an intern of *AML@ByteDance*, doing research on Graph Machine Learning.
+- 🔭 I have been an intern of *AML@ByteDance*, doing research on Graph Transformer.
 
-- 🔭 I have been an intern of *NLP-center@Meituan*, doing research on Dynamic Graph and Recommendation System.
+- 🔭 I'm an intern of *NLP-center@Meituan*, doing research on Dynamic Graph and Recommender Systems.
 
-- 🔭 Now, I'm a M.S. student at *ICT, CAS, Beijing*.  
+- 🔭 I'm a M.S. student at *ICT@CAS*, Beijing.  
 
 - 🌱 I’m interested in Graph Neural Networks.  
 
