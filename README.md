@@ -28,15 +28,15 @@ Here are some ideas to get you started:
 
 - 🔭 I have graduated from NCEPU.   
 
-- 🔭 I have been an intern of **AML@ByteDance**, doing research on Graph Transformer.
+- 🔭 I have been an intern of AML@ByteDance, doing research on Graph Transformer.
 
-- 🔭 I'm an intern of **NLP-center@Meituan**, doing research on Dynamic Graph and Recommender Systems.
+- 🔭 I'm an intern of NLP-center@Meituan, doing research on Dynamic Graph and Recommender Systems.
 
-- 🔭 I'm a M.S. student at **ICT@CAS**, Beijing.  
+- 🔭 I'm now a first-year master student of ICT@CAS.  
 
 - 🌱 I’m interested in Graph Neural Networks.  
 
-- 📫 How to reach me: [chihuixuan21s@ict.ac.cn](#).
+- 📫 How to reach me: [chihuixuan21s@ict.ac.cn](#)
 
   <!--📫 How to reach me: chihuixuan@163.com.-->
 ---
