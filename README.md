@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 🔭 I'm an intern of NLP-center@Meituan, doing research on Dynamic Graph and Recommender Systems.
 
-- 🔭 I'm now a first-year master student of ICT@CAS.  
+- 🔭 Now, I'm a master student of ICT@CAS.  
 
 - 🌱 I’m interested in Graph Neural Networks.  
 
@@ -40,7 +40,9 @@ Here are some ideas to get you started:
 
   <!--📫 How to reach me: chihuixuan@163.com.-->
 ---
-- I participated in [MAXP-DGL-Graph-Machine-Learing-Competition](https://www.biendata.xyz/competition/maxp_dgl/). (Team: *Graph@ICT*, Rank: *6*)
+- I have submitted on [DGraph-Fin Leaderboard](https://dgraph.xinye.com/leaderboards/dgraphfin) and achieved Top-3 in August, 2022. 
+
+- I have participated in [MAXP-DGL-Graph-Machine-Learing-Competition](https://www.biendata.xyz/competition/maxp_dgl/). (Graph@ICT, Top-6)
 
 - I have submited on OGB Leaderboard for both node classification and graph classification tasks.
 
