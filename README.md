@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 - 🔭 Now, I'm a master student of ICT@CAS.  
 
-- 🌱 I’m interested in Graph Neural Networks.  
+- 🌱 I’m interested in Dynamic Graph Neural Networks.  
 
 - 📫 How to reach me: [chihuixuan21s@ict.ac.cn](#)
 
