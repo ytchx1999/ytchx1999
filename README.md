@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 
 - I have submited on OGB Leaderboard for both node classification and graph classification tasks.
 
-  - [https://ogb.stanford.edu/docs/leader_nodeprop/#ogbn-products](https://ogb.stanford.edu/docs/leader_nodeprop/#ogbn-products)
-  - [https://ogb.stanford.edu/docs/leader_graphprop/#ogbg-molhiv](https://ogb.stanford.edu/docs/leader_graphprop/#ogbg-molhiv) 
+  - [ogbn-products Leaderboard](https://ogb.stanford.edu/docs/leader_nodeprop/#ogbn-products)
+  - [ogbg-molhiv Leaderboard](https://ogb.stanford.edu/docs/leader_graphprop/#ogbg-molhiv) 
 
   Criticism and corrections are welcome！
 
