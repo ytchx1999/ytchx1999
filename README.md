@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
   <!--📫 How to reach me: chihuixuan@163.com.-->
 ---
-- I have submitted on [DGraph-Fin Leaderboard](https://dgraph.xinye.com/leaderboards/dgraphfin) and achieved Top-3 in August, 2022. 
+- I have submitted on [DGraph-Fin Leaderboard](https://dgraph.xinye.com/leaderboards/dgraphfin) and achieved Top-2 in August, 2022. 
 
 - I have participated in [MAXP-DGL-Graph-Machine-Learing-Competition](https://www.biendata.xyz/competition/maxp_dgl/). (Graph@ICT, Top-6)
 
