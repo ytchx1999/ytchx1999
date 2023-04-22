@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 
 - 🔭 I have been an intern of AML@ByteDance, doing research on Graph Transformer.
 
-- 🔭 I'm an intern of NLP-center@Meituan, doing research on Dynamic Graph and Recommender Systems.
+- 🔭 I have been an intern of NLP-center@Meituan, doing research on Dynamic Graph and Recommender Systems.
 
-- 🔭 Now, I'm a master student of ICT@CAS.  
+- 🔭 I'm a master student of ICT@CAS.  
 
 - 🌱 I’m interested in Dynamic Graph Neural Networks.  
 
