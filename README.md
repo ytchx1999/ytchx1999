@@ -30,13 +30,13 @@ Here are some ideas to get you started:
 
 - 🔭 I have graduated from NCEPU.   
 
-- 🔭 I have been an research intern of AML@字节跳动 (AML@ByteDance) in Graph Transformer.
+- 🔭 I have been an research intern of AML@ByteDance in Graph Transformer.
 
-- 🔭 I have been an research intern of NLP中心@美团 (NLP-center@Meituan) in Dynamic Graph and Recommender Systems.
+- 🔭 I have been an research intern of NLP-center@Meituan in Dynamic Graph and Recommender Systems.
 
-- 🔭 I have been the ByteIntern of 风控@字节跳动 (Risk-control@ByteDance).
+<!-- - 🔭 I have been the ByteIntern of 风控@字节跳动 (Risk-control@ByteDance). -->
 
-- 🔭 Now, I'm a master student of 中科院计算所 (ICT@CAS).  
+- 🔭 Now, I'm a master student of ICT@CAS.  
 
 - 🌱 I’m interested in Dynamic Graph Neural Networks.  
 
