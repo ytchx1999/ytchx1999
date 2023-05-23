@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 
 - 🔭 I have graduated from NCEPU.   
 
-- 🔭 I have been an research intern of AML@ByteDance in Graph Transformer.
+<!-- - 🔭 I have been an research intern of AML@ByteDance in Graph Transformer.
 
-- 🔭 I have been an research intern of NLP-center@Meituan in Dynamic Graph and Recommender Systems.
+- 🔭 I have been an research intern of NLP-center@Meituan in Dynamic Graph and Recommender Systems. -->
 
 <!-- - 🔭 I have been the ByteIntern of 风控@字节跳动 (Risk-control@ByteDance). -->
 
