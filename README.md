@@ -26,10 +26,11 @@ Here are some ideas to get you started:
 
 #### Profile
 
-- 🔭 I have graduated from NCEPU.   
-- 🔭 Now, I'm a master student of ICT@CAS.  
-- 🌱 I’m interested in Graph Embedding.  
-- 📫 How to reach me: [chihuixuan21s@ict.ac.cn](#)
+- I have graduated from NCEPU.   
+- Now, I'm a master student of ICT@CAS.  
+- I’m interested in Graph Embedding.  
+- How to reach me: [chihuixuan21s@ict.ac.cn](#)
+
 
   <!--📫 How to reach me: chihuixuan@163.com.-->
   
