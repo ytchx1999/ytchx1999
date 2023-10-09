@@ -46,6 +46,14 @@ Here are some ideas to get you started:
   
 ---
 
+#### Internship
+
+- Heterogeneous Graph Embedding for Douyin Risk Control, **Risk-Control@Bytedance**
+- Dynamic Graph for Life Service Recommender System, **NLP-Center@Meituan**
+- Graph Transformer on OGB, **AML@Bytedance**
+
+---
+
 #### Project
 
 - [梦想家 (DreamerGPT): 中文大语言模型指令精调](https://github.com/DreamerGPT/DreamerGPT) in 2023.
