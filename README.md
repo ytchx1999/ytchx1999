@@ -17,7 +17,7 @@ Status: 24校招找工作中，欢迎联系...(兄弟们原计划有变，不出
 
 #### Internship
 
-- Task Master for Mind GPT, **SSAI@LiAuto**
+- Mind GPT taskmaster, code and agent, **SSAI@LiAuto**
 - Heterogeneous Graph Embedding for Douyin Risk Control, **Risk-Control@Bytedance**
 - Dynamic Graph for Life Service Recommender System, **NLP-Center@Meituan**
 - Graph Transformer on OGB, **AML@Bytedance**
