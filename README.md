@@ -2,10 +2,11 @@
 
 [![](https://img.shields.io/badge/CSDN-@智慧的旋风-red.svg?style=plastic)](https://blog.csdn.net/weixin_41650348/)  [![](https://img.shields.io/badge/知乎-@智慧的旋风-blue.svg?style=plastic&logo=zhihu)](https://www.zhihu.com/people/zhi-hui-de-xuan-feng)   ![GitHub User's stars](https://img.shields.io/github/stars/ytchx1999?affiliations=OWNER&style=social) ![GitHub followers](https://img.shields.io/github/followers/ytchx1999?style=social)
 
-Status: 24校招找工作中，欢迎联系...
+Status: 24校招找工作中，欢迎联系...  
+
 【广告】理想汽车-大模型算法实习生招人-代码生成方向
 
-- 关于我们：
+- 关于我们：  
 团队自主研发大模型MindGPT，针对关键场景进行了大规模的数据训练，赋予了理想同学更加智能的问答和对话能力。现在的理想同学不仅可以控制车窗、搜歌、发起导航，还能和你真正的聊起来，解疑答惑、激发灵感... 
 在这里你能得到：
 1. 业界超一流的算法场景实践，参与解决工业界实际问题，深入研究、极致优化  
